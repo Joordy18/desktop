@@ -2,6 +2,7 @@ A humble attempt at creating a desktop-style site, which could be used for a por
 This was made using HTML,CSS,Javascript.
 
 # Functionalities 
+- Simple login screen
 - Desktop icons
 - A photos gallery
 - Functional task bar with Start button and real time clock
